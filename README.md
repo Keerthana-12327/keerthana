@@ -8,6 +8,7 @@ I enjoy learning new tools and methodologies that enhance testing efficiency, an
 Let’s connect and collaborate on projects that ensure flawless user experiences! 🌟
 
 I have worked on diferent projects and created reports as attached in the github 
+
 1.Lingo Panda (Mobile App Testing)
 I tested the mobile app version of Lingo Panda, focusing on functional and usability testing to ensure a seamless user experience. I identified bugs, tracked them for resolution, and compiled detailed test reports highlighting areas for improvement.
 
