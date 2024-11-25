@@ -1,4 +1,5 @@
 About Me
+
 Hi there! 👋 I'm currently working as an ML Data Associate and exploring opportunities in the Software Testing field. My passion for ensuring software quality and precision has led me to transition into this dynamic and detail-oriented domain.
 
 I hold a Bachelor's degree in Computer Science Engineering from Sreenivasa Institute of Technology and Management Studies. My academic background and professional experience have equipped me with strong analytical and problem-solving skills, which I am excited to apply in the realm of software testing.
